@@ -2,4 +2,8 @@ Demo project
 
 Branch changes
 
+
 Changes on branch
+
+Merge conflicts in master
+
